@@ -7,7 +7,7 @@ Author :
 programmer : Onwuemenyi Joshua Akachukwu .P.
 
 This project is a simple tool that I hope to integrate into my OS of which I have plans on building ( it proberbly going to be open source ).
-Right now it's just a simple CLI tool quite cool and aslo lame. Lots of features need to be implemented in order to bring out the full potential of Todo pad.
+Right now it's just a simple CLI tool quite cool and aslo, quite not so cool. Lots of features need to be implemented in order to bring out the full potential of Todo pad.
 
 Currently it can :
 - > Add todos (tasks).
@@ -30,4 +30,5 @@ I also need a way of clearing the stdin before reprinting todo. Right now it jus
 I don't know why, but conio.h doesn't really work on my machine or something ( or may be I haven't made adequate researches on how to use it ?).
 
 Then the big finish - > Adding a GUI.
+
 										DATE : 1st september 2025 _-_ 5:25 PM CAT. 
