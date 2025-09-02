@@ -13,19 +13,6 @@ int is_file_empty(FILE *Fp)
     return 0;
 }
 
-void read_file(FILE *Fp)
-{
-    char buff[100];
-    int count = 1;
-    printf("\t\t~Existing Todos~\n");
-    while ((fgets(buff, sizeof buff, Fp)))
-    {
-        printf("%d) %s", count, buff);
-        count++;
-    }
-    BTT(Fp);
-}
-
 void add_todo(struct TODO *cache, char *buff)
 {
     scale_cache(cache);
@@ -156,4 +143,5 @@ int edit_todo(struct TODO *cache, char *buff, int index)
 // void remove_all(struct TODO *cache)
 // {
 //     // Hopefully I'll implement this later or when I add graphics.
+
 // }
