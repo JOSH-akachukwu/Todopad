@@ -1,0 +1,33 @@
+					Todo pad 
+					 @v_1.0.0
+DOCUMENTATION.
+----------------------
+
+Author :
+programmer : Onwuemenyi Joshua Akachukwu .P.
+
+This project is a simple tool that I hope to integrate into my OS of which I have plans on building ( it proberbly going to be open source ).
+Right now it's just a simple CLI tool quite cool and aslo lame. Lots of features need to be implemented in order to bring out the full potential of Todo pad.
+
+Currently it can :
+- > Add todos (tasks).
+- > Remove todos.
+- > Edit existing todos.
+- > Save and read todos from files (it caches todos into memory then saves to file on exit, or maybe not!).
+
+TODOS :
+- > Reminder.
+- > Undo last action.
+- > Set priorities and due date.
+- > Mark todos as completed.
+- > Search and filter todos by key word.
+- > Bulk actions { "Remove all", "Mark all", etc }.
+- > Better file formats to support the long term storage of todos and support for the aforementioned features.
+- > May be add some colourful output.
+- > command line args.
+
+I also need a way of clearing the stdin before reprinting todo. Right now it just prints on creating a croll on the CLI window.
+I don't know why, but conio.h doesn't really work on my machine or something ( or may be I haven't made adequate researches on how to use it ?).
+
+Then the big finish - > Adding a GUI.
+										DATE : 1st september 2025 _-_ 5:25 PM CAT. 

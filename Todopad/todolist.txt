@@ -1,0 +1,7 @@
+Finish my todo app, well I call it *Todo pad* now.
+Make Todo pad into a fully functional simple tool (with more features).
+In order to become a good C programmer I need to first take a bath in the fundamentals first (be aware but not priorities on system specifics).
+Show a better level of self discipline to my SELF.
+I need to stop wasting away my resources.
+Currently Todopad has no Bugs.
+A steady hand does the best.
