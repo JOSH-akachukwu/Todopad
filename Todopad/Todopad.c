@@ -26,7 +26,6 @@ int main(void)
     int not_first = 0;
     if (!is_file_empty(TD))
     {
-        // read_file(TD);
         cache_file(TD, &userdo);
         print_cache(&userdo);
     };
@@ -91,3 +90,4 @@ int main(void)
     }
     free_cache(&userdo);
 }
+
